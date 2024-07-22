@@ -51,6 +51,6 @@ for (let anosVividos = anoNacimento; anosVividos <= anoAtual; anosVividos++){
 
 //LOOP WHILE
 do {
-    let continuar = prompt("Deseja inserir os dados novamente? (s/n)")
-}while(continuar == "s")
+  let continuar = prompt("Deseja inserir os dados novamente? (s/n)")
+} while(continuar == "s")
 
